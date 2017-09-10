@@ -21,13 +21,16 @@ let me walk you through in here,
       - ruby sinatra_demo.rb
       
       See below for reference
-      ![Output]()
+<img src="https://github.com/arungpro/sinatra_demo/blob/master/term1.png">
 
     3. From any browser, try loading http://localhost:4567/
       what you see in browser
-      ![Output]()
+     
+<img src="https://github.com/arungpro/sinatra_demo/blob/master/browser.png" width="100%" height="300px">
+
+
       you will see the request hits in terminal
-      ![Output]()
+<img src="https://github.com/arungpro/sinatra_demo/blob/master/term2.png">
     
     
 ## Routes
